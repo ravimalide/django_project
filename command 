@@ -1,0 +1,6 @@
+Activate virtual env:
+    source env/bin/activate
+
+run server:
+    python manage.py runserver 127.0.0.1:8080
+
